@@ -86,10 +86,11 @@ Essas análises permitem identificar padrões, dispersão e possíveis outliers 
 ---
 
 ## 👩‍💻 Autora
+Clea Márcia
 
-**Clea Marcia**
+Analista de Dados | Ciência de Dados
 
-Analista de Dados | Ciência de Dados | Estatística Aplicada
+Projeto desenvolvido para fins de estudo (Alura One) e portfólio profissional.
 
 ---
 
